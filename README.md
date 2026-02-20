@@ -19,33 +19,20 @@ I'm a software developer with a keen interest in creating impactful projects and
 - JavaScript/TypeScript
 - Python
 - SQL
+- Java
+- HTML
+- CSS
 
 ### Tools & Frameworks
 - React
 - Node.js
 - Git
+- Spring Boot
 
 ### Other
 - REST APIs
 - Responsive Design
 - Version Control
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devindi2004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devindi2004&layout=compact&theme=radical)
-
-## 🌟 Featured Projects
-
-### [Project Name 1](link-to-repo)
-Brief description of what this project does and its key features.
-
-### [Project Name 2](link-to-repo)
-Brief description of what this project does and its key features.
-
-### [Project Name 3](link-to-repo)
-Brief description of what this project does and its key features.
 
 ## 🎯 Current Goals
 
